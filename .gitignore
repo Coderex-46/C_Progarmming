@@ -1,0 +1,4 @@
+# Ignore Linux and Windows binaries
+*.out
+*.exe
+01_Input_Sum_of_Array
